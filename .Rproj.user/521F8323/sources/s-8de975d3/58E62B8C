@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1686793811470.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1637968404",
+    "id" : "58E62B8C",
+    "lastKnownWriteTime" : 1686734202,
+    "last_content_update" : 1686734202,
+    "path" : "~/app/hulilei/jhhrvprecheck/mdljhhrvprecheckCom/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
